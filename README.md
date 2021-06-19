@@ -2,7 +2,7 @@
 Kurato MultiTools - has: Pinger, IP Lookup, Email Boomber, Ddos Tool, NMap scanner, port scanner in one!
 ### Show
 ![obraz](https://user-images.githubusercontent.com/80784394/122639012-d7be3b00-d0f7-11eb-85e3-5ba4b1d53666.png)
-### Installing
+# Installing
 Open installer.bat. If the ingredients are not taken properly, here is a list. Must download python to using PIP commands. And add to PATCH.
 
 [Link to python website](https://www.python.org/downloads/)
